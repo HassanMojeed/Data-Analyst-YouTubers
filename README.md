@@ -6,7 +6,9 @@ _mojeed.o.hassan@gmail.com_
 
 # Data-Analyst-YouTubers
 
-## Numbers Speak: Analyzing The Strategies And Engagement Patterns of Data Analyst YouTubers. [CLICK HERE](https://nbviewer.org/github/HassanMojeed/Data-Analyst-YouTubers/blob/main/Analyzing%20Engagement%20Patterns%20of%20Data%20Analyst%20YouTubers.ipynb) TO VIEW PROJECT WITH GRAPHICS.
+## Numbers Speak: Analyzing The Strategies And Engagement Patterns of Data Analyst YouTubers. 
+
+[CLICK HERE](https://nbviewer.org/github/HassanMojeed/Data-Analyst-YouTubers/blob/main/Analyzing%20Engagement%20Patterns%20of%20Data%20Analyst%20YouTubers.ipynb) TO VIEW PROJECT WITH GRAPHICS.
 
 ### Introduction:
 
@@ -50,3 +52,5 @@ In the quest for insights, I'm unraveling the mysteries behind tags and titles. 
 - Leila Gharani (Xelplus)
 - Chandoo
 - Jamie keet (Teacher's Tech)
+
+[CLICK HERE](https://nbviewer.org/github/HassanMojeed/Data-Analyst-YouTubers/blob/main/Analyzing%20Engagement%20Patterns%20of%20Data%20Analyst%20YouTubers.ipynb) TO VIEW PROJECT WITH GRAPHICS.
