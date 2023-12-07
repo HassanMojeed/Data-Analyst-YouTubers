@@ -8,7 +8,7 @@ _mojeed.o.hassan@gmail.com_
 
 ## Numbers Speak: Analyzing The Strategies And Engagement Patterns of Data Analyst YouTubers. 
 
-[CLICK HERE](https://nbviewer.org/github/HassanMojeed/Data-Analyst-YouTubers/blob/main/Analyzing%20Engagement%20Patterns%20of%20Data%20Analyst%20YouTubers.ipynb) TO VIEW PROJECT WITH GRAPHICS.
+[CLICK HERE](https://nbviewer.org/github/HassanMojeed/Data-Analyst-YouTubers/blob/7ed5e442790d539015e17334374133b1b3272120/Analyzing%20Engagement%20Patterns%20of%20Data%20Analyst%20YouTubers.ipynb) TO VIEW PROJECT WITH GRAPHICS.
 
 ### Introduction:
 To begin with, readers and inquisitive minds should note that this project is strictly for learning purposes. All creators are doing fantastically well in their respective niches, and the intention here is not to downgrade any channel but to learn from their strategies.
@@ -54,4 +54,4 @@ In the quest for insights, I'm unraveling the mysteries behind tags and titles. 
 - Chandoo
 - Jamie keet (Teacher's Tech)
 
-[CLICK HERE](https://nbviewer.org/github/HassanMojeed/Data-Analyst-YouTubers/blob/main/Analyzing%20Engagement%20Patterns%20of%20Data%20Analyst%20YouTubers.ipynb) TO VIEW PROJECT WITH GRAPHICS.
+[CLICK HERE](https://nbviewer.org/github/HassanMojeed/Data-Analyst-YouTubers/blob/7ed5e442790d539015e17334374133b1b3272120/Analyzing%20Engagement%20Patterns%20of%20Data%20Analyst%20YouTubers.ipynb) TO VIEW PROJECT WITH GRAPHICS.
