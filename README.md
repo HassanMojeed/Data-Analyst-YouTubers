@@ -11,6 +11,7 @@ _mojeed.o.hassan@gmail.com_
 [CLICK HERE](https://nbviewer.org/github/HassanMojeed/Data-Analyst-YouTubers/blob/main/Analyzing%20Engagement%20Patterns%20of%20Data%20Analyst%20YouTubers.ipynb) TO VIEW PROJECT WITH GRAPHICS.
 
 ### Introduction:
+To begin with, readers and inquisitive minds should note that this project is strictly for learning purposes. All creators are doing fantastically well in their respective niches, and the intention here is not to downgrade any channel but to learn from their strategies.
 
 In this exciting project, I'm delving deep into the world of some of the top **YouTube data analyst content creators** in my opinion, that I follow and learn from. My mission is to uncover their winning strategies for captivating the right audience and understand how these strategies shape their results.
 
